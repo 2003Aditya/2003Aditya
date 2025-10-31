@@ -26,4 +26,3 @@ Currently contributing to **open-source projects** like [GitHub CLI](https://git
 
 [![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2003Aditya&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/2003Aditya/2003Aditya/blob/output/github-contribution-grid-snake.svg)
