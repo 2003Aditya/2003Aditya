@@ -27,4 +27,4 @@ Currently contributing to **open-source projects** like [GitHub CLI](https://git
 
 [![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2003Aditya&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=2003Aditya&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinav-133" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=2003Aditya&label=Profile%20views&color=0e75b6&style=flat" alt="2003Aditya" /> </p>
