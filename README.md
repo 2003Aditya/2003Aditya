@@ -20,6 +20,8 @@ Currently contributing to **open-source projects** like [GitHub CLI](https://git
 - [**Zenith**](https://github.com/2003Aditya/teamzenith) — Offline mesh-based chat & location sharing app  
 - [**GitHub CLI Contributions**](https://github.com/cli/cli/pull/12053) — Fixed `--interval` flag docs in `gh pr checks`
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhinav-133&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinav-133" /> </p>
+
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-mishra-670083215/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2003Aditya)
