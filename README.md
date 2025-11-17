@@ -12,7 +12,7 @@ Currently contributing to **open-source projects** like [GitHub CLI](https://git
 📫 Reach me at: [mishraaditya675@gmail.com](mailto:mishraaditya675@gmail.com)
 
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2003Aditya&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2003Aditya&layout=compact&theme=tokyonight)
+
 
 ### 🚀 Featured Projects
 
